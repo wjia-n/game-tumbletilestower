@@ -83,6 +83,8 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'tumbletilestowertaco',
   tip2Id: 'tumbletilestowerpopcorn',
-  tip1Label: '💛 Buy me a taco',
-  tip2Label: '💛 Buy me a popcorn',
+  tip1Label: '💛 Buy me a taco for Tumble Tiles Tower',
+
+  tip2Label: '💛 Buy me a popcorn for Tumble Tiles Tower',
+
 );
